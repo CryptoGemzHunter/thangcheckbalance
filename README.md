@@ -2,3 +2,4 @@
 ```bash
 npm thangcheckbalance
 ```
+npm 
