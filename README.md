@@ -3,3 +3,4 @@
 npm thangcheckbalance
 ```
 npm 
+Exit
